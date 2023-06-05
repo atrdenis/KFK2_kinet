@@ -1,3 +1,4 @@
+# KFK-2 kinetic (КФК-2 кинетика)
 This is a project to determine the kinetics of changes in optical density according to the data from the KFK-2 photocolorimeter
 At the input, the program receives voltage data from KFK-2 via the serial port
 For KFK2 0 V = 0% transmission, 0.1 V = 100% transmission
@@ -20,3 +21,6 @@ For questions, write to atrdenis@gmail.com
 При нажатии кнопки "Stop" происходит отключение от последовательного порта и прекращение сбора данных.
 При нажатии кнопки "Reset" собранные данные записываются в файл, а переменные очищаются.
 По вопросам пишите на atrdenis@gmail.com
+
+## Connection to PC:
+![ConnectionScheme](https://github.com/atrdenis/KFK2_kinet/blob/main/ConnectionScheme.jpg)
