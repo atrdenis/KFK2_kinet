@@ -24,3 +24,6 @@ For questions, write to atrdenis@gmail.com
 
 ## Connection to PC:
 ![ConnectionScheme](https://github.com/atrdenis/KFK2_kinet/blob/main/ConnectionScheme.jpg)
+
+## Arduino Device Scheme:
+![ArduinoScheme](https://github.com/atrdenis/KFK2_kinet/blob/main/ArduinoScheme.jpg)
